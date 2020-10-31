@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "245cc347caa4ab7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e39da9a806e09918",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "第06期：从零实现一个shell解释器/6.4 解析用户输入的命令并执行.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88f1171c5c0e17b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e8a1e6a33bde836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8a4a2cfe317ee64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3f166a3a4eb23a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299
+  },
+  "right": {
+    "id": "4ab2330cd5f9d73d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0839b4a26809abb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c56282b1548084a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第06期：从零实现一个shell解释器/6.4 解析用户输入的命令并执行.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "第06期：从零实现一个shell解释器/6.4 解析用户输入的命令并执行.md",
+    "第06期：从零实现一个shell解释器/6.5 代码优化及封装.md",
+    "linux系统编程.md",
+    "练手项目：使用C语言实现协程/4-17. 使用POSIX API实现协程.md",
+    "练手项目：使用C语言实现协程/3. 保存和设置当前函数上下文.md",
+    "4-17. 使用POSIX API实现协程.md",
+    "10-12. 实现协程的API.md",
+    "练手项目：使用C语言实现协程/1. 什么是协程？.md",
+    "练手项目：使用C语言实现协程/2.协程的实现原理.md",
+    "10. 实现协程的API：coroutine_create.md"
+  ]
+}
